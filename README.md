@@ -1,4 +1,4 @@
-# Project-Template
+# Project-Guide
 this is intended to provide you with orientation and assistance during the project.
 
 ## Project-Management
