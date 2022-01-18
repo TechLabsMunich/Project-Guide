@@ -17,7 +17,7 @@ We recommend to use the following
 - Pycharm (Community) for Python: https://www.jetbrains.com/pycharm/
 - Or more general Visual Studio Code: https://code.visualstudio.com/
 
-## Useful frameworks
+## Useful Frameworks
 - Python Basics: Pandas, SciPy, Numpy, Matplotlib
 - Python Machine Learning: scikit-learn, Keras, Pytorch, Tensorflow
 
@@ -26,6 +26,9 @@ We recommend to use the following
 
 ### Frontend  Frameworks
 - JavaScript: React, Vue, Angular
+
+## More Information
+Take some time to search for for smaller examples that are already publicly available on Github, so you can get a quick first overview of how different problems could be solved.
 
 ## Deployment 
 - DigitalOcean: https://www.digitalocean.com/
